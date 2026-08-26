@@ -1,0 +1,19 @@
+<?php
+
+$nota1 = 6;
+$nota2 = 6;
+
+$media = ($nota1 + $nota2)/2;
+
+if($media >= 7){
+    echo "Aprovado";
+}
+elseif($media >=5 && $media < 7){
+    echo "Em recuperação";
+}
+else{
+    echo "Reprovado";
+}
+
+
+?>
