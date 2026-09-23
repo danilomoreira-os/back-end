@@ -1,0 +1,28 @@
+.meio{
+    text-align: center;
+    background-color: black;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,label{
+    color: white;
+}
+a{
+    color: rgb(24, 214, 24);
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+}
+input{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    
+}
+
